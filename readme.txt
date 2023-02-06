@@ -1,1 +1,1 @@
-﻿This is a website development project with the title "Online Consultor". This website is made using HTML & CSS. Here there is a index.html file which will be run on web browser in order to see the built website.
+﻿This is a website development project with the title "Tax Consultor". This website is made using HTML & CSS
